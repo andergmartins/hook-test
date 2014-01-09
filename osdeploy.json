@@ -1,5 +1,7 @@
 {
+    "system": "joomla",
+    "type": "component",
     "name": "HookTest",
-    "element": "hook-test",
-    "type": "component"
+    "element": "com_hooktest",
+    "description": "This extension is just a test for the Github hook and OSDeploy system"
 }
