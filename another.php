@@ -1,2 +1,3 @@
 Another test  
-ow a new line2
+ow a new line
+ttest
