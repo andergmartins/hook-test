@@ -1,0 +1,11 @@
+{
+    "name"             : "RealCodeLab/Hook Test",
+    "description"      : "Hook Test project",
+    "minimum-stability": "stable",
+    "license"          : "GPL-2+",
+    "version"          : "1.0.3",
+    "type"             : "joomla.component",
+    "extra"            : {
+        "element": "com_hooktest"
+    }
+}
