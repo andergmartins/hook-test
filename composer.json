@@ -3,7 +3,7 @@
     "description"      : "Hook Test project",
     "minimum-stability": "stable",
     "license"          : "GPL-2+",
-    "version"          : "1.0.4",
+    "version"          : "1.0.5",
     "type"             : "joomla.component",
     "extra"            : {
         "name": "Hook Test",
