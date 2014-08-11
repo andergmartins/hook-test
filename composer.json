@@ -3,9 +3,19 @@
     "description"      : "Hook Test project",
     "minimum-stability": "stable",
     "license"          : "GPL-2+",
-    "version"          : "1.0.3",
+    "version"          : "1.0.4",
     "type"             : "joomla.component",
     "extra"            : {
+        "name": "Hook Test",
         "element": "com_hooktest"
+    },
+    "authors"          : [
+        {
+            "name" : "Anderson G. Martins",
+            "email": "anderson@nononono.com"
+        }
+    ],
+    "require"          : {
+        "php"       : ">= 5.3"
     }
 }
