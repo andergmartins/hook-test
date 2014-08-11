@@ -4,7 +4,7 @@
 
     <target name="current-release" description="Generate package file for current version">
         <echo message="Building ${build.version} version for php projects"/>
-        <zip destfile="./phing/packages/package.zip" includeemptydirs="true" basedir="./src" />
+        <zip destfile="./phing/packages/com_hooktest_1.0.4.zip" includeemptydirs="true" basedir="./src" />
     </target>
 
 </project>
