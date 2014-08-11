@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="OSTraining Package Builder" default="package" basedir="../">
+    <property name="build.version" value="dummy"/>
+
+    <target name="current-release" description="Generate package file for current version">
+        <echo message="Building ${build.version} version for php projects"/>
+        <zip destfile="./phing/packages/package.zip" includeemptydirs="true" basedir="./src" />
+    </target>
+
+</project>
